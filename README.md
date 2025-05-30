@@ -115,7 +115,7 @@ Styling is applied via Tailwind CSS for a clean and modern UI.
 
 | App Interface | Training Completed |
 |---------------|------------------|
-| ![UI](Screenshot%20(367).png) | ![Training](creenshot%20(368).png) |
+| ![UI](Screenshot%20(367).png) | ![Training](Screenshot%20(368).png) |
 
 | Training Result | Live Output |
 |--------------|-------------|
